@@ -1,1 +1,1 @@
-Some proxy rules for personal use
+## Some proxy rules for personal use
