@@ -1,0 +1,42 @@
+# Microsoft services in China
+# 2024-4-11
+
+# OneDrive
+HOST-SUFFIX,storage.live.com
+
+# Skype
+HOST-SUFFIX,skypeassets.com
+HOST-SUFFIX,skypeforbusiness.com
+HOST-SUFFIX,skype.com
+HOST-SUFFIX,messenger.live.com
+
+# Outlook
+HOST-SUFFIX,outlook.com
+
+# Microsoft
+HOST-SUFFIX, microsoft.com
+HOST-KEYWORD,microsoft
+HOST-SUFFIX,msftauth.net
+HOST-SUFFIX,msauth.net
+
+# Windows
+HOST-SUFFIX,windows-ppe.net
+HOST-SUFFIX,windows.com
+HOST-SUFFIX,windows.net
+HOST-SUFFIX,windowsazure.com
+HOST-SUFFIX,windowsupdate.com
+
+# Bing
+HOST-SUFFIX, bing.com
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,bingapis.com
+
+# Office
+HOST-SUFFIX,o365weve.com
+HOST-SUFFIX,oaspapps.com
+HOST-SUFFIX,office.com
+HOST-SUFFIX,office.net
+HOST-SUFFIX,office365.com
+HOST-SUFFIX,officeppe.net
+HOST-SUFFIX,docs.live.net
+HOST-SUFFIX,officeapps.live.com
