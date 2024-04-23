@@ -40,3 +40,6 @@ HOST-SUFFIX,office365.com
 HOST-SUFFIX,officeppe.net
 HOST-SUFFIX,docs.live.net
 HOST-SUFFIX,officeapps.live.com
+
+# Others
+HOST-SUFFIX,appcenter.ms
