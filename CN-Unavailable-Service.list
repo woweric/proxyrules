@@ -6,5 +6,11 @@ HOST-SUFFIX,linkedin.com
 HOST-KEYWORD,github
 HOST,www.skype.com
 
+# Office
+HOST,appsforoffice.microsoft.com, proxy
+HOST,answers-afd.microsoft.com, proxy
+HOST,officeapps.live.com, proxy
+HOST,officeclient.microsoft.com, proxy
+
 # IM
 HOST-KEYWORD,whatsapp
