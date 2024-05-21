@@ -1,5 +1,5 @@
 # Microsoft services in China
-# 2024-4-11
+# 2024-5-21
 
 # OneDrive
 HOST-SUFFIX,storage.live.com
@@ -15,7 +15,7 @@ HOST-SUFFIX,outlook.com
 
 # Microsoft
 HOST-SUFFIX, microsoft.com
-HOST-KEYWORD,microsoft
+#HOST-KEYWORD,microsoft
 HOST-SUFFIX,msftauth.net
 HOST-SUFFIX,msauth.net
 
