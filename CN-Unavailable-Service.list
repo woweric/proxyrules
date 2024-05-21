@@ -7,10 +7,10 @@ HOST-KEYWORD,github
 HOST,www.skype.com
 
 # Office
-HOST,appsforoffice.microsoft.com, proxy
-HOST,answers-afd.microsoft.com, proxy
-HOST,officeapps.live.com, proxy
-HOST,officeclient.microsoft.com, proxy
+HOST,appsforoffice.microsoft.com
+HOST,answers-afd.microsoft.com
+HOST,officeapps.live.com
+HOST,officeclient.microsoft.com
 
 # IM
 HOST-KEYWORD,whatsapp
