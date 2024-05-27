@@ -3,6 +3,7 @@
 
 # OneDrive
 HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,1drv.com
 
 # Skype
 HOST-SUFFIX,skypeassets.com
