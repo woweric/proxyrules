@@ -1,9 +1,10 @@
 # Microsoft services in China
-# 2024-5-21
+# 2024-6-2
 
 # OneDrive
 HOST-SUFFIX,storage.live.com
 HOST-SUFFIX,1drv.com
+HOST-SUFFIX,sharepoint.com
 
 # Skype
 HOST-SUFFIX,skypeassets.com
