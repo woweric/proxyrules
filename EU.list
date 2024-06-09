@@ -9,6 +9,7 @@ HOST-SUFFIX,italotreno.com
 HOST-SUFFIX,bahn.de
 HOST-SUFFIX,oebb.at
 HOST-SUFFIX,oebbtickets.at
+HOST-SUFFIX,fsbusitalia.it
 
 # Banking
 HOST-SUFFIX,tech26.de
@@ -24,3 +25,7 @@ HOST-SUFFIX,google.it
 
 # Gov
 HOST-SUFFIX,gov.it
+
+# Amazon
+HOST-SUFFIX,amazon.it
+
