@@ -1,0 +1,16 @@
+#Europe apps
+
+# Trains
+HOST-SUFFIX,trenitalia.com
+HOST-SUFFIX,lefrecce.it
+HOST-SUFFIX,italotreno.it
+HOST-SUFFIX,italotreno.com
+HOST-SUFFIX,bahn.de
+HOST-SUFFIX,oebb.at
+HOST-SUFFIX,oebbtickets.at
+
+# Banking
+HOST-SUFFIX,tech26.de
+HOST-SUFFIX,usercentrics.eu
+HOST-SUFFIX,poste.it
+HOST-SUFFIX,paypal.com
