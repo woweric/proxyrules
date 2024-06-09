@@ -1,6 +1,7 @@
 #Europe apps
 
 # Trains
+HOST-SUFFIX,rfi.it
 HOST-SUFFIX,trenitalia.com
 HOST-SUFFIX,lefrecce.it
 HOST-SUFFIX,italotreno.it
@@ -14,3 +15,12 @@ HOST-SUFFIX,tech26.de
 HOST-SUFFIX,usercentrics.eu
 HOST-SUFFIX,poste.it
 HOST-SUFFIX,paypal.com
+
+# Google
+HOST,crashlyticsreports-pa.googleapis.com
+HOST,firebaseremoteconfig.googleapis.com
+HOST,mobilemaps.googleapis.com
+HOST-SUFFIX,google.it
+
+# Gov
+HOST-SUFFIX,gov.it
