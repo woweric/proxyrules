@@ -17,7 +17,7 @@ HOST-SUFFIX,messenger.live.com
 HOST-SUFFIX,outlook.com
 
 # Microsoft
-HOST-SUFFIX, microsoft.com
+HOST-SUFFIX,microsoft.com
 #HOST-KEYWORD,microsoft
 HOST-SUFFIX,msftauth.net
 HOST-SUFFIX,msauth.net
@@ -30,7 +30,7 @@ HOST-SUFFIX,windowsazure.com
 HOST-SUFFIX,windowsupdate.com
 
 # Bing
-HOST-SUFFIX, bing.com
+HOST-SUFFIX,bing.com
 HOST-SUFFIX,bing.net
 HOST-SUFFIX,bingapis.com
 
