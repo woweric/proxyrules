@@ -5,6 +5,7 @@
 HOST-SUFFIX,linkedin.com
 HOST-KEYWORD,github
 HOST,www.skype.com
+HOST-SUFFIX,onedrive.live.com
 
 # Office
 HOST,appsforoffice.microsoft.com
