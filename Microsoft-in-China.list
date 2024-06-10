@@ -5,6 +5,7 @@
 HOST-SUFFIX,storage.live.com
 HOST-SUFFIX,1drv.com
 HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,api.onedrive.com
 
 # Skype
 HOST-SUFFIX,skypeassets.com
