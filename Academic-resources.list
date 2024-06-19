@@ -27,7 +27,8 @@ HOST-SUFFIX,clarivate.com
 HOST-SUFFIX,nejm.org
 HOST-SUFFIX,cas.org
 HOST-SUFFIX,pubs.acs.org
-HOST-SUFFIX,ieeexplore.ieee.org
+# HOST-SUFFIX,ieeexplore.ieee.org
+HOST-SUFFIX,ieee.org
 HOST-SUFFIX,zotero.org
 HOST-SUFFIX,zotero.com
 
