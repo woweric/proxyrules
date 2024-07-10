@@ -3,7 +3,7 @@
 
 HOST-SUFFIX,sciencedirect.com
 HOST-SUFFIX,sciencedirectassets.com
-HOST-SUFFIX,springer.com
+# HOST-SUFFIX,springer.com
 HOST-SUFFIX,webofknowledge.com
 HOST-SUFFIX,elsevier.com
 HOST-SUFFIX,els-cdn.com
