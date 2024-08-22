@@ -31,8 +31,8 @@ HOST-SUFFIX,pubs.acs.org
 HOST-SUFFIX,ieeexplore.ieee.org
 HOST-KEYWORD,ieee
 HOST-SUFFIX,ieee.org
-HOST-SUFFIX,zotero.org
-HOST-SUFFIX,zotero.com
+# HOST-SUFFIX,zotero.org
+# HOST-SUFFIX,zotero.com
 
 HOST-SUFFIX,openathens.net
 HOST-SUFFIX,doi.org
