@@ -45,5 +45,8 @@ HOST-SUFFIX,officeppe.net
 HOST-SUFFIX,docs.live.net
 HOST-SUFFIX,officeapps.live.com
 
+# Onedrive
+HOST-SUFFIX,onenote.com
+
 # Others
 HOST-SUFFIX,appcenter.ms
