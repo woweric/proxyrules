@@ -1,5 +1,5 @@
 # Microsoft services in China
-# 2024-9-8
+# 2025-3-3
 
 # OneDrive
 HOST-SUFFIX,storage.live.com
@@ -50,3 +50,20 @@ HOST-SUFFIX,onenote.com
 
 # Others
 HOST-SUFFIX,appcenter.ms
+
+# Teams
+HOST-SUFFIX,teams.live.com
+HOST-SUFFIX,lync.com
+HOST-SUFFIX,teams.cloud.microsoft
+HOST-SUFFIX,teams.microsoft.com
+Host,teams.cloud.microsoft
+Host,teams.microsoft.com
+HOST-SUFFIX,keydelivery.mediaservices.windows.net
+HOST-SUFFIX,streaming.mediaservices.windows.net
+
+# CDN
+HOST-SUFFIX,cdn.live.net
+
+# Connect
+HOST,www.msftconnecttest.com
+HOST-SUFFIX,msedge.net
