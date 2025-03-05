@@ -1,5 +1,5 @@
 # Microsoft services in China
-# 2025-3-3
+# 2025-3-5
 
 # OneDrive
 HOST-SUFFIX,storage.live.com
@@ -63,7 +63,9 @@ HOST-SUFFIX,streaming.mediaservices.windows.net
 
 # CDN
 HOST-SUFFIX,cdn.live.net
+HOST-SUFFIX,location.live.net
+HOST-SUFFIX,arc.msn.com
 
 # Connect
-HOST,www.msftconnecttest.com
+HOST-SUFFIX,msftconnecttest.com
 HOST-SUFFIX,msedge.net
