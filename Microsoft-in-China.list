@@ -42,7 +42,7 @@ HOST-SUFFIX,office.com
 HOST-SUFFIX,office.net
 HOST-SUFFIX,office365.com
 HOST-SUFFIX,officeppe.net
-HOST-SUFFIX,docs.live.net
+#HOST-SUFFIX,docs.live.net
 HOST-SUFFIX,officeapps.live.com
 
 # Onedrive
@@ -61,9 +61,10 @@ Host,teams.microsoft.com
 HOST-SUFFIX,keydelivery.mediaservices.windows.net
 HOST-SUFFIX,streaming.mediaservices.windows.net
 
-# CDN
-HOST-SUFFIX,cdn.live.net
-HOST-SUFFIX,location.live.net
+# live.net
+HOST-SUFFIX,live.net
+
+# MSN
 HOST-SUFFIX,arc.msn.com
 
 # Connect
