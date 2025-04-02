@@ -43,7 +43,6 @@ HOST-SUFFIX,office.net
 HOST-SUFFIX,office365.com
 HOST-SUFFIX,officeppe.net
 #HOST-SUFFIX,docs.live.net
-HOST-SUFFIX,officeapps.live.com
 
 # Onedrive
 HOST-SUFFIX,onenote.com
