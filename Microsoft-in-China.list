@@ -31,9 +31,9 @@ HOST-SUFFIX,windowsazure.com
 HOST-SUFFIX,windowsupdate.com
 
 # Bing
-#HOST-SUFFIX,bing.com
-#HOST-SUFFIX,bing.net
-#HOST-SUFFIX,bingapis.com
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,bingapis.com
 
 # Office
 HOST-SUFFIX,o365weve.com
