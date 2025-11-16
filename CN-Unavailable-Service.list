@@ -1,10 +1,10 @@
 # Unavailable service in China
-# 2024-4-11
+# 2025-11-16
 
 # Microsoft
 HOST-SUFFIX,linkedin.com
-HOST-KEYWORD,github
-HOST,www.skype.com
+# HOST-KEYWORD,github
+# HOST,www.skype.com
 HOST-SUFFIX,onedrive.live.com
 
 # Office
@@ -14,7 +14,7 @@ HOST,officeapps.live.com
 HOST,officeclient.microsoft.com
 
 # IM
-HOST-KEYWORD,whatsapp
+# HOST-KEYWORD,whatsapp
 
 # Mendeley
-HOST-KEYWORD,mendeley
+# HOST-KEYWORD,mendeley
